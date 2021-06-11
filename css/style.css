@@ -1,0 +1,54 @@
+body {
+  background-color: #caf7e3;
+}
+
+h1, h2 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wishesAndCake {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 50px;
+  position: relative;
+
+}
+.asdasdas3424{
+margin-top: 258px;
+
+
+
+}
+#leftbox {
+  float: left;
+  background: Red;
+  width: 25%;
+}
+
+#middlebox {
+  float: left;
+  background: Green;
+  width: 25%;
+}
+.asdsadq3r43241414{
+width:620px;
+height:890px;
+
+text-align: center;
+
+}
+
+#rightbox {
+  float: right;
+  background: blue;
+  width: 25%;
+}
+
+#lastbox {
+  float: right;
+  background: blue;
+  width: 25%;
+}
